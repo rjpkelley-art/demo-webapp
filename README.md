@@ -7,3 +7,4 @@ Structure:
 - backend/ (Express)
 - Dockerfile
 - .github/workflows/ci.yml
+\n![demo](https://img.shields.io/badge/demo-ready-brightgreen)
